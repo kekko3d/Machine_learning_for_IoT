@@ -5,11 +5,13 @@ This repository contains all the assignments from the course **[Machine Learning
 The course aims to introduce the problems related to the implementation of machine learning applications and algorithms on platforms other than high-performance servers available in the cloud. 
 
 Course Topics:
+
 ● Hardware:
  - Computer architectures used for running and developing "edge" machine learning algorithms.
  - "quantitative" analysis between single/multi-core microprocessors, microcontrollers, DSP, PLC, GPU, etc.
  - Basic knowledge about sensors: filtering, conversion
  - understanding, modeling and optimization of non-functional metrics (energy, performance)
+
 ● Software:
  - real problems in IT-industrial applications
  - machine-learning algorithms
