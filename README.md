@@ -25,7 +25,9 @@ Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`, `CherryPy`
 
 ### Homeworks
 |HW1| VAD Optimization and Memory Constraint Time-Series Processing
+
 |HW2| Human voice analysis for detecting go/stop words in order to create a voice recognition system
+
 |HW3| Data Collection, Communication and Storage 
 
 
